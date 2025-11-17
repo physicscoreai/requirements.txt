@@ -1,1 +1,3 @@
-# requirements.txt
+text
+streamlit
+numpy
